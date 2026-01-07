@@ -53,7 +53,7 @@
     <td><b>SCM</b></td>
     <td>GitHub, GitLab, CodeCommit</td>
     <td>
-      - <a href="https://github.com/iamsakshi7108/iamsakshi7108.git">My Github Profile</a>
+      - <a href="https://github.com/Sakshikarle15/Sakshikarle15.git">My Github Profile</a>
     </td>
   </tr>
 
@@ -61,7 +61,7 @@
     <td><b>Databases</b></td>
     <td>DynamoDB, RDS</td>
     <td>
-      - <a href="https://github.com/iamsakshi7108/Data-Migration-Project_IAAS-PAAS.git">Data-Migration-Project_IAAS-PAAS</a>
+      - <a href="https://github.com/Sakshikarle15/Data-Migration-from-EC2-to-RDS.git">Data-Migration-Project_IAAS-PAAS</a>
     </td>
   </tr>
 
@@ -83,7 +83,7 @@
 ## <span style="font-size: 28px;">🔗 Connect with me</span>
 
 <p>
-  <a href="https://www.linkedin.com/in/sakshi-kolhapure-665b57378" target="_blank">
+  <a href="https://www.linkedin.com/in/sakshi-karle-37b831224" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
   </a>
 </p>
@@ -132,8 +132,8 @@
 ## 🔗 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamsakshi7108&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsakshi7108&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshikarle15&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshikarle15&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
