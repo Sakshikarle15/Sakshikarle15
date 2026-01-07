@@ -45,7 +45,7 @@
     <td>Node.js, Python</td>
     <td>
       - <a href="https://github.com/iamsakshi7108/Python-App-Deployment.git">Python-App-Deployment</a><br>
-      - <a href="https://github.com/iamsakshi7108/Node-App-Deployment.git">Node-App-Deployment</a>
+      - <a href="https://github.com/Sakshikarle15/nodeapp.git">Node-App-Deployment</a>
     </td>
   </tr>
 
