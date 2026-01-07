@@ -22,11 +22,11 @@
     <td><b>Cloud</b></td>
     <td>AWS</td>
     <td>
-      - <a href="https://github.com/iamsakshi7108/Secure-Three-Tier-Project.git">Secure-Three-Tier-Project</a><br>
-      - <a href="https://github.com/iamsakshi7108/Serverless_File_Compression-Project.git">Serverless_File_Compression-Project</a><br>
-      - <a href="https://github.com/iamsakshi7108/Serverless_Volume_Backup-Project.git">Serverless_Volume_Backup-Project</a><br>
-      - <a href="https://github.com/iamsakshi7108/AutoScaling-Project.git">AutoScaling-Project</a>
-      - <a href="https://github.com/iamsakshi7108/Application-Load-Balancer-Project.git">Application-Load-Balancer-Project</a>
+      - <a href="https://github.com/Sakshikarle15/static-website-hosting.git">Static Website Hosting</a><br>
+      - <a href="https://github.com/Sakshikarle15/wordpress-deployment.git">Wordpress Deployment</a><br>      
+      - <a href="https://github.com/Sakshikarle15/ALB-with-MultipleEC2-project.git">ASG with Multiple EC2</a><br>
+      - <a href="https://github.com/Sakshikarle15/ASG-with-LoadBalancer.git">Autoscaling with Application Load Balancer</a><br>
+      - <a href="https://github.com/Sakshikarle15/Three-Tier-project.git">Three Tier-Project</a>
     </td>
   </tr>
 
@@ -42,10 +42,11 @@
 
   <tr>
     <td><b>Programming Languages</b></td>
-    <td>Node.js, Python</td>
+    <td>Node.js, Python, php</td>
     <td>
       - <a href="https://github.com/Sakshikarle15/deployed-python-application.git">Python-App-Deployment</a><br>
-      - <a href="https://github.com/Sakshikarle15/nodeapp.git">Node-App-Deployment</a>
+      - <a href="https://github.com/Sakshikarle15/nodeapp.git">Node-App-Deployment</a><br>
+      - <a href="https://github.com/Sakshikarle15/php-student-registration-form.git">Php-Registration-Form</a>
     </td>
   </tr>
 
