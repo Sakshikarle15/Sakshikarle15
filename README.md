@@ -40,6 +40,11 @@
       - <a href="https://github.com/iamsakshi7108/Self_Healing_Infrastucture_Using_Terraform.git">Self_Healing_Infrastucture_Using_Terraform</a><br>
     </td>
   </tr>
+  <td><b>Server Templating</b></td>
+    <td>Docker</td>
+    <td>
+      - 
+  </tr>
 
   <tr>
     <td><b>Programming Languages</b></td>
@@ -48,6 +53,12 @@
       - <a href="https://github.com/Sakshikarle15/deployed-python-application.git">Python-App-Deployment</a><br>
       - <a href="https://github.com/Sakshikarle15/nodeapp.git">Node-App-Deployment</a><br>
       - <a href="https://github.com/Sakshikarle15/php-student-registration-form.git">Php-Registration-Form</a>
+    </td>
+  </tr>
+  <td><b>Monitoring</b></td>
+    <td>CloudWatch</td>
+    <td>
+      - 
     </td>
   </tr>
 
