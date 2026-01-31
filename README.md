@@ -41,9 +41,12 @@
     </td>
   </tr>
   <td><b>Server Templating</b></td>
-    <td>Docker</td>
+  <td>Docker</td>
     <td>
-      - 
+     - <a href="https://github.com/Sakshikarle15/nodeapp-using-docker.git">node.js-deploy</a>a><br>
+     - <a href="https://github.com/Sakshikarle15/python-app-deployment.git">pythonapp-deploy</a>a><br>
+      <a href="https://github.com/Sakshikarle15/docker-wordpress-deployment.git">wordpress-database-two-tier</a>a><br>
+    </td>
   </tr>
 
   <tr>
