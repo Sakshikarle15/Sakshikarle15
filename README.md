@@ -38,6 +38,15 @@
       - <a href="https://github.com/Sakshikarle15/3-tier-project-using-Terraform.git">3-Tier-Architecture-using-Terraform</a><br>
     </td>
   </tr>
+    <tr>
+    <td><b>Configuration Management</b></td>
+    <td>Ansible</td>
+    <td>
+      - 
+    </td>
+  </tr>
+  
+  
   <td><b>Server Templating</b></td>
   <td>Docker</td>
     <td>
