@@ -78,6 +78,7 @@
     <td>GitHub, GitLab, CodeCommit</td>
     <td>
       - <a href="https://github.com/Sakshikarle15/Sakshikarle15.git">My Github Profile</a>
+      - <a href="https://github.com/Sakshikarle15/Gitlab-to-Github-Mirroring-repo.git> Gitlab-to-Github-mirroring-project</a>
     </td>
   </tr>
 
